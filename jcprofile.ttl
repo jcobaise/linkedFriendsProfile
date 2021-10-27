@@ -24,7 +24,7 @@
    foaf:familyName "Cobaise" ;
    foaf:age 24 ; 
    foaf:img <https://en.wikipedia.org/wiki/Grizzly%E2%80%93polar_bear_hybrid#/media/File:Grolar.JPG> ;
-   foaf:knows <https://users.dcc.uchile.cl/~ahogan/foaf.ttl#ah> , https://users.dcc.uchile.cl/~hsarmien/foaf.ttl#hs;
+   foaf:knows <https://users.dcc.uchile.cl/~ahogan/foaf.ttl#ah> , <https://users.dcc.uchile.cl/~hsarmien/foaf.ttl#hs> , <https://javierdiazparada.github.io/lab9.ttl#jd>;
    foaf:interest dbr:Anime , dbr:Philosophy  , dbr:Nature_study ; 
    social:hasSpiritAnimal dbr:Grolar ;
    foaf:myersBriggs "ENFP" .
