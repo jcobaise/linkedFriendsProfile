@@ -13,8 +13,8 @@
 <> a foaf:Document ;
    dc:date "2021-10-27"^^xsd:date ;
    dc:title "Javier's FOAF Profile"@en ;
-   foaf:primaryTopic <#ah> ;
-   dc:creator <#ah> .
+   foaf:primaryTopic <#jc> ;
+   dc:creator <#jc> .
 
 <#jc> a foaf:Person ;
    rdfs:label "Javier Cobaise" ;
