@@ -1,6 +1,6 @@
-@base <https://raw.githubusercontent.com/jcobaise/linkedFriendsProfile/main/javierprofile.ttl> .
+@base <https://raw.githubusercontent.com/jcobaise/linkedFriendsProfile/main/javierprofile.txt> .
 
-@prefix jc: <https://raw.githubusercontent.com/jcobaise/linkedFriendsProfile/main/javierprofile.ttl#> .
+@prefix jc: <https://raw.githubusercontent.com/jcobaise/linkedFriendsProfile/main/javierprofile.txt#> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix foaf: <http://xmlns.com/foaf/0.1/> .
@@ -24,7 +24,7 @@
    foaf:familyName "Cobaise" ;
    foaf:age 24 ; 
    foaf:img <http://aidanhogan.com/img/me-sp.png> ;
-   foaf:knows <https://users.dcc.uchile.cl/~ahogan/foaf.ttl> , ;
+   foaf:knows <https://users.dcc.uchile.cl/~ahogan/foaf.ttl> ;
    foaf:interest dbr:Anime , dbr:Philosophy  , dbr:Nature_study ; 
    social:hasSpiritAnimal dbr:Grolar ;
    foaf:myersBriggs "ENFP" .
