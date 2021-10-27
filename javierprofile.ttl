@@ -24,7 +24,7 @@
    foaf:familyName "Cobaise" ;
    foaf:age 24 ; 
    foaf:img <http://aidanhogan.com/img/me-sp.png> ;
-   foaf:knows <https://users.dcc.uchile.cl/~ahogan/foaf.ttl> ;
+   #foaf:knows <https://users.dcc.uchile.cl/~ahogan/foaf.ttl> ;
    foaf:interest dbr:Anime , dbr:Philosophy  , dbr:Nature_study ; 
    social:hasSpiritAnimal dbr:Grolar ;
    foaf:myersBriggs "ENFP" .
