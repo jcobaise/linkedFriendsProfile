@@ -1,0 +1,30 @@
+@base <http://users.dcc.uchile.cl/~ahogan/foaf.ttl> .
+
+@prefix ah: <http://users.dcc.uchile.cl/~ahogan/foaf.ttl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dc: <http://purl.org/dc/terms/> .
+@prefix social: <http://users.dcc.uchile.cl/~ahogan/social.ttl#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix wd: <http://www.wikidata.org/entity/>.
+@prefix dbr: <http://dbpedia.org/resource/>.
+
+<> a foaf:Document ;
+   dc:date "2021-10-27"^^xsd:date ;
+   dc:title "Javier's FOAF Profile"@en ;
+   foaf:primaryTopic <#ah> ;
+   dc:creator <#ah> .
+
+<#jc> a foaf:Person ;
+   rdfs:label "Javier Cobaise" ;
+   rdfs:comment "DCC student"@en , "Estudiante del DCC"@es ;
+   foaf:name "Javier Cobaise" ;
+   foaf:givenName "Javier" ;
+   foaf:familyName "Cobaise" ;
+   foaf:age 24 ; 
+   foaf:img <http://aidanhogan.com/img/me-sp.png> ;
+   foaf:knows <https://users.dcc.uchile.cl/~ahogan/foaf.ttl> , ;
+   foaf:interest dbr:Anime , dbr:Philosophy  , dbr:Nature_study ; 
+   social:hasSpiritAnimal dbr:Grolar ;
+   foaf:myersBriggs "ENFP" .
