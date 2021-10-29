@@ -27,5 +27,6 @@
    foaf:knows <https://users.dcc.uchile.cl/~ahogan/foaf.ttl#ah> , <https://users.dcc.uchile.cl/~hsarmien/foaf.ttl#hs> , <https://javierdiazparada.github.io/lab9.ttl#jd>;
    foaf:interest dbr:Semantic_Web , dbr:Anime , dbr:Philosophy  , dbr:Nature_study ; 
    social:hasEnemy <http://users.dcc.uchile.cl/~ahogan/abot.ttl#ab> ;
+   social:hasFavouritePlatonicSolid dbr:Dodecahedron ;
    social:hasSpiritAnimal dbr:Grolar ;
    foaf:myersBriggs "ENFP" .
