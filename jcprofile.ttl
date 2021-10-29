@@ -28,5 +28,6 @@
    foaf:interest dbr:Semantic_Web , dbr:Anime , dbr:Philosophy  , dbr:Nature_study ; 
    social:hasEnemy <http://users.dcc.uchile.cl/~ahogan/abot.ttl#ab> ;
    social:hasFavouritePlatonicSolid dbr:Dodecahedron ;
+   social:likesMovie dbr:Arrival_(film) , dbr:Pacific_Rim_(film) , dbr:Kung_Fu_Hustle , dbr:Green_Book_(film) , dbr:Knives_Out ;
    social:hasSpiritAnimal dbr:Grolar ;
    foaf:myersBriggs "ENFP" .
